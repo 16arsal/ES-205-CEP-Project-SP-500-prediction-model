@@ -45,6 +45,12 @@ The dataset has missing values in some price columns, which the matrix factoriza
 
 The PDF files are coursework/report artifacts. The notebooks contain the executable analysis.
 
+## Evidence / Report
+
+- [Primary project report PDF](S%26P%20500%20predictions%20with%20LR%20and%20MF%20%28group%208%29.pdf) - report artifact for the linear regression and matrix factorization project.
+- [ES-205 documentation PDF](ES-205%20DOCUMENTATION.pdf) - coursework documentation artifact.
+- [ES-205 report remake PDF](ES-205%20REPORT%20REMAKE%20GROUP%208.pdf) - alternate/report remake artifact retained in the repository.
+
 ## Linear Regression Notebook
 
 File: `LinearRegression and Matrix Factorization/Linear Regression.ipynb`
